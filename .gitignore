@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# IntelliJ / IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Parallax / First Principles Specific
+workbench/*
+!workbench/README.md
+!workbench/.keep
+# We ignore the workbench contents because it is the "Active Scratchpad"
+# But we keep the README so the folder exists.
