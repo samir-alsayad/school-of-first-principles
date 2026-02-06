@@ -1,0 +1,11 @@
+id: computing.fundamentals.git_mastery_v1
+title: "Git Mastery: The Plumbing"
+description: "Mastering the mental model of Git via plumbing and snapshots."
+
+assignments:
+  - a01_blob_objects
+  - a02_tree_objects
+  - a03_commit_plumbing
+  - a04_refs_and_heads
+  - a05_reset_logic
+  - a06_recovery_reflog
