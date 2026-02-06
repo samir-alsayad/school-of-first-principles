@@ -1,0 +1,98 @@
+[
+  {
+    "path": "Inference_LLM_Lab",
+    "files": [
+      "requirements.txt"
+    ]
+  },
+  {
+    "path": "Inference_LLM_Lab/third_party/rlm",
+    "files": [
+      "pyproject.toml"
+    ]
+  },
+  {
+    "path": "IntelHub/lab/agent_factory/venv/lib/python3.12/site-packages/llama_index/readers/file/pymu_pdf",
+    "files": [
+      "requirements.txt"
+    ]
+  },
+  {
+    "path": "IntelHub/lab/agent_factory/venv/lib/python3.12/site-packages/llama_index/readers/file/image_deplot",
+    "files": [
+      "requirements.txt"
+    ]
+  },
+  {
+    "path": "IntelHub/lab/agent_factory/venv/lib/python3.12/site-packages/llama_index/readers/file/unstructured",
+    "files": [
+      "requirements.txt"
+    ]
+  },
+  {
+    "path": "IntelHub/lab/agent_factory/venv/lib/python3.12/site-packages/gradio/_frontend_code/lite/examples/transformers_basic",
+    "files": [
+      "requirements.txt"
+    ]
+  },
+  {
+    "path": "IntelHub/lab/agent_factory/venv/lib/python3.12/site-packages/gradio/_frontend_code/preview/test/test",
+    "files": [
+      "pyproject.toml"
+    ]
+  },
+  {
+    "path": "IntelHub/lab/agent_factory/venv/lib/python3.12/site-packages/pandas",
+    "files": [
+      "pyproject.toml"
+    ]
+  },
+  {
+    "path": "IntelHub/runtime/letta/letta-env/lib/python3.11/site-packages/llama_index/readers/file/pymu_pdf",
+    "files": [
+      "requirements.txt"
+    ]
+  },
+  {
+    "path": "IntelHub/runtime/letta/letta-env/lib/python3.11/site-packages/llama_index/readers/file/image_deplot",
+    "files": [
+      "requirements.txt"
+    ]
+  },
+  {
+    "path": "IntelHub/runtime/letta/letta-env/lib/python3.11/site-packages/llama_index/readers/file/unstructured",
+    "files": [
+      "requirements.txt"
+    ]
+  },
+  {
+    "path": "IntelHub/runtime/letta/letta-env/lib/python3.11/site-packages/pandas",
+    "files": [
+      "pyproject.toml"
+    ]
+  },
+  {
+    "path": "IntelHub/canon/recursive-llm",
+    "files": [
+      "pyproject.toml"
+    ]
+  },
+  {
+    "path": "IntelHub/mini-swe-agent",
+    "files": [
+      "pyproject.toml"
+    ]
+  },
+  {
+    "path": "Gated Agent Protocol",
+    "files": [
+      "pyproject.toml"
+    ]
+  },
+  {
+    "path": "school-of-first-principles/curriculum/campaigns/03_memory/modules/01_postgres/lab/module_01_pgvector",
+    "files": [
+      "requirements.txt"
+    ]
+  }
+]

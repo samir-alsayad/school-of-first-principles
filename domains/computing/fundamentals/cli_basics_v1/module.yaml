@@ -1,0 +1,11 @@
+# Module Manifest: CLI Basics v1
+# Canonical ID: computing.fundamentals.cli_basics_v1
+
+id: computing.fundamentals.cli_basics_v1
+title: "CLI Basics v1"
+description: "Foundational command-line interface patterns using Python argparse."
+
+# Assignment Order (local names only)
+assignments:
+  - a01_argparse_intro
+  - a02_argparse_scopes

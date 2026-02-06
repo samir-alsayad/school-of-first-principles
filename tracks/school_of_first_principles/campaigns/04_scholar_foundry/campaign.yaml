@@ -1,0 +1,7 @@
+id: school_of_first_principles.04_scholar_foundry
+title: "Scholar Foundry"
+description: "CLI tooling and curriculum management."
+
+assignments:
+  - computing.fundamentals.cli_basics_v1.a01_argparse_intro
+  - computing.software_engineering.typer_v1.a01_typer

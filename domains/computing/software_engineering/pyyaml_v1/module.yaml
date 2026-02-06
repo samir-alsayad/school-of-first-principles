@@ -1,0 +1,6 @@
+id: computing.software_engineering.pyyaml_v1
+title: "PyYAML v1"
+description: "YAML parsing and serialization with PyYAML."
+
+assignments:
+  - a01_pyyaml

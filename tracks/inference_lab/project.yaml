@@ -1,0 +1,6 @@
+id: inference_lab
+title: "Inference Lab"
+description: "The Engine. Benchmarking and Local Compute."
+
+campaigns:
+  - 01_local_compute

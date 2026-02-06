@@ -1,0 +1,6 @@
+id: nexus_shell
+title: "Nexus Shell"
+description: "The Body. A modular, sovereign terminal workspace."
+
+campaigns:
+  - 01_shell_control

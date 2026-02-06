@@ -1,0 +1,6 @@
+id: intel_research.01_theory_of_mind
+title: "Theory of Mind"
+description: "Cognitive architectures and recursive self-modeling."
+
+assignments:
+  - computing.ai.architect_v1.a01_personas

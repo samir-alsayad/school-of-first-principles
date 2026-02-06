@@ -1,0 +1,50 @@
+# GAP Mastery Curriculum
+# The Law of the Agent
+
+project:
+  name: "Gated Agent Protocol (GAP)"
+  description: "Deterministic Security for Autonomous Agents"
+  version: "0.2.0"
+
+curriculum:
+  - id: level_01_alignment
+    title: "Level 1: The Contract"
+    nodes:
+      - id: software_engineering.alignment.gates
+        path: "domains/computing/knowledge_graph/Software_Engineering/01_alignment/03_sync_gates/mission.md"
+        xp: 400
+        why: "Understand the 'Stop' mechanism before the 'Go'."
+
+  - id: level_02_security
+    title: "Level 2: The Enforcer"
+    nodes:
+      - id: software_engineering.security.acls
+        path: "domains/computing/knowledge_graph/Software_Engineering/02_security_labs/02_acls/mission.md"
+        xp: 500
+        why: "Define the boundaries of the Agent's playground."
+
+      - id: software_engineering.security.enforcer
+        path: "domains/computing/knowledge_graph/Software_Engineering/02_security_labs/05_enforcer/mission.md"
+        xp: 600
+        why: "Build the code that rejects unauthorized actions."
+
+  - id: level_03_parser
+    title: "Level 3: The Auditor (Regex)"
+    nodes:
+      - id: python.regex.patterns
+        path: "domains/computing/knowledge_graph/Languages/Python/Regex/01_patterns/mission.md" # To be created
+        xp: 400
+        why: "Extract IDs from Markdown spec files (auditor.py)."
+
+      - id: python.regex.parsing
+        path: "domains/computing/knowledge_graph/Languages/Python/Regex/02_parsing/mission.md" # To be created
+        xp: 500
+        why: "Validate traceability links between artifacts."
+
+  - id: level_04_typing
+    title: "Level 4: The Standard (Typing)"
+    nodes:
+      - id: python.typing.hints
+        path: "domains/computing/knowledge_graph/Languages/Python/Typing/01_hints/mission.md" # To be created
+        xp: 300
+        why: "Ensure protocols are strictly followed using Type Hints."

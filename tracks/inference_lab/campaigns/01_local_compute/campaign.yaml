@@ -1,0 +1,6 @@
+id: inference_lab.01_local_compute
+title: "Local Compute"
+description: "MLX, Quantization, and VRAM constraints."
+
+assignments:
+  - computing.ai.local_inference_v1.a01_vram_math

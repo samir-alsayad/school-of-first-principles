@@ -1,0 +1,8 @@
+id: computing.software_engineering.alignment_v1
+title: "Alignment v1"
+description: "Human-AI alignment patterns, personas, protocols, and sync gates."
+
+assignments:
+  - a01_persona
+  - a02_protocol_intro
+  - a03_sync_gates

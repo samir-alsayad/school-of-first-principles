@@ -1,0 +1,6 @@
+id: computing.systems.install_v1
+title: "Install v1"
+description: "Software installation and package management fundamentals."
+
+assignments:
+  - a01_install

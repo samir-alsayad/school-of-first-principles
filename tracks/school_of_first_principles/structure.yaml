@@ -1,0 +1,51 @@
+project:
+  name: "School of First Principles (Meta-Project)"
+  description: "The recursive project for building the School's infrastructure."
+  version: "0.0.1"
+
+# The Registry: Points to where the actual work happens
+campaigns:
+  - id: campaign_01_specs
+    type: "Theory"
+    title: "Campaign 1: The Vision"
+    description: "Defining the pedagogical philosophy and structure."
+    modules:
+      - id: meta.specs.vision
+        path: "projects/school-of-first-principles/01_specs/VISION.md"
+        status: verified
+      - id: meta.specs.protocol
+        path: "projects/school-of-first-principles/01_specs/PROTOCOL.md" # To be created
+        status: pending
+        note: "Must define Atomic Assignment requirement."
+
+  - id: campaign_02_system_prompts
+    type: "Theory"
+    title: "Campaign 2: The Faculty"
+    description: "Defining the AI personas."
+    modules:
+      - id: meta.prompts.academy
+        path: "rulesets/academy_v1.txt" # Linking to the source
+        status: verified
+
+  - id: campaign_03_scholar_cli
+    type: "Foundry"
+    title: "Campaign 3: The Scholar"
+    description: "Building the CLI tool."
+    modules:
+      - id: meta.tools.cli.mission
+        path: "projects_registry/school-of-first-principles/03_scholar_cli/mission.md"
+        status: pending
+        target_dir: "foundry/scholar_cli" # Where the code lives
+        dependencies: ["python.labs.argparse"]
+
+  - id: campaign_04_python_labs
+    type: "Theory"
+    title: "Campaign 4: Python Fundamentals"
+    description: "Atomic experiments for Python mastery."
+    modules:
+      - id: python.labs.argparse
+        path: "domains/computing/knowledge_graph/Languages/Python/labs/argparse_101/mission.md"
+        status: verified
+      - id: python.labs.argparse.advanced
+        path: "domains/computing/knowledge_graph/Languages/Python/labs/argparse_102/mission.md"
+        status: pending

@@ -1,0 +1,6 @@
+id: computing.systems.memory_v1
+title: "Memory v1"
+description: "Memory systems, databases, and persistence layers."
+
+assignments:
+  - a01_postgres_lab

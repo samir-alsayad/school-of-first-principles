@@ -1,0 +1,6 @@
+id: computing.systems.pids_v1
+title: "PIDs v1"
+description: "Process identifiers and process management."
+
+assignments:
+  - a01_pids

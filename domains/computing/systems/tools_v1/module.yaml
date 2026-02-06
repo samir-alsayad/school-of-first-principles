@@ -1,0 +1,6 @@
+id: computing.systems.tools_v1
+title: "Tools v1"
+description: "System tooling and utilities."
+
+assignments:
+  - a01_tools

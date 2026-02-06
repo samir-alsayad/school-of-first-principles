@@ -1,0 +1,6 @@
+id: understanding_computers
+title: "Understanding Computers"
+description: "Rebuilding the stack from first principles to gain massive understanding."
+
+campaigns:
+  - 01_digital_logic

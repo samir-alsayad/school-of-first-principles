@@ -1,0 +1,6 @@
+id: intel_research
+title: "Intel Research"
+description: "The Lab. Theory of Mind and Recursive Architectures."
+
+campaigns:
+  - 01_theory_of_mind

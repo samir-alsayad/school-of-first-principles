@@ -1,0 +1,7 @@
+id: computing.systems.ipc_v1
+title: "IPC v1"
+description: "Inter-process communication patterns."
+
+assignments:
+  - a01_ipc
+  - a02_parallax_link
