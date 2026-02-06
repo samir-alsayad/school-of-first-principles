@@ -1,0 +1,11 @@
+# Learner Ledger
+# Tracks completed assignments (sparse - only completed entries)
+
+completed:
+  computing.fundamentals.cli_basics_v1.a01_argparse_intro:
+    verified_at: "2026-02-06T07:30:00"
+    score: 1.0
+
+# in_progress is non-authoritative UI state (optional)
+in_progress:
+  - computing.fundamentals.cli_basics_v1.a02_argparse_scopes

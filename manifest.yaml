@@ -1,0 +1,63 @@
+kind: project
+name: school-of-first-principles
+version: 2.0.0
+description: "The Sovereign Academy for Autonomy."
+
+# The Checkpoints (Reflecting Policy: Semi-Autonomous)
+checkpoints:
+  strategy: explicit
+  after_tasks:
+    # Stop after Module 1 completion
+    - unit_1_2
+    # Stop after Register definition (Critical Architecture Decision)
+    - unit_2_1
+    # Stop before System Implementation
+    - unit_2_3
+
+# Composition: Using multiple protocols
+extends:
+  # 1. The Teacher (Primary)
+  - protocol: instructional
+    role: librarian
+    scope: /
+    steps:
+      - step: requirements
+        name: "Requirements Context"
+        artifact: .gap/specs/requirements.md
+        gate: false
+        template: templates/requirements.md
+        description: "Define the intent, tracking, and goals."
+
+      - step: design
+        name: "Structural Design"
+        artifact: .gap/specs/design.md
+        gate: true
+        needs: [requirements]
+        template: templates/design.md
+        description: "Define the syllabus, modules, and pedagogical approach."
+    # The Mapping: Universal -> School Jargon
+    overrides:
+      terms:
+        course: Campaign
+        section: Module
+        unit: Atom
+        content: Codex
+        assessment: Reflection
+      templates:
+        # We override the default templates if needed, or just map the names
+        course: templates/campaign.md   # School Uses "Campaign"
+
+  # 2. The Builder (Secondary - for Tooling)
+  - protocol: software
+    role: smith
+    scope: /domains/computing
+    restrictions:
+      - "Cannot write to Content (Codex) files"
+      - "Must stop at Design Phase unless explicitly approved"
+
+# The Federated Sub-Domains
+domains:
+  - name: computing
+    path: domains/computing
+  - name: life
+    path: domains/life

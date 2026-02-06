@@ -1,0 +1,7 @@
+id: computing.ai.local_inference_v1
+title: "Local Inference v1"
+description: "Running LLMs locally: VRAM math, quantization, and hardware constraints."
+
+assignments:
+  - a01_vram_math
+  - a02_quantization

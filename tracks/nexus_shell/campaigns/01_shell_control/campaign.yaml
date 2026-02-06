@@ -1,0 +1,9 @@
+id: nexus_shell.01_shell_control
+title: "Shell Control"
+description: "Mastering the shell environment, signals, and IPC."
+
+assignments:
+  - computing.fundamentals.shell_v1.a01_shell
+  - computing.systems.signals_v1.a01_signals
+  - computing.systems.ipc_v1.a01_ipc
+  - computing.software_engineering.ansi_v1.a01_ansi

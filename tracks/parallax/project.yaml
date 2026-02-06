@@ -1,0 +1,6 @@
+id: parallax
+title: "Parallax"
+description: "The Glue. Declarative context orchestration."
+
+campaigns:
+  - 01_orchestration

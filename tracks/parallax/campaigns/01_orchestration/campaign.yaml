@@ -1,0 +1,8 @@
+id: parallax.01_orchestration
+title: "Context Orchestration"
+description: "Managing state, tools, and declarative schemas."
+
+assignments:
+  - computing.systems.tools_v1.a01_tools
+  - computing.systems.persistence_v1.a01_persistence
+  - computing.software_engineering.pyyaml_v1.a01_pyyaml

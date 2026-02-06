@@ -1,0 +1,6 @@
+id: llm_toolbelt
+title: "LLM Toolbelt"
+description: "Production Environment. Recursive LLM and Agent Tooling."
+
+campaigns:
+  - 01_recursive_agents

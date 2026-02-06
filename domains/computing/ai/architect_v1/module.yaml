@@ -1,0 +1,12 @@
+id: computing.ai.architect_v1
+title: "Architect v1"
+description: "Cognitive architecture patterns: Council of Agents, coordination, and optimization."
+
+assignments:
+  - a01_personas
+  - a02_theory
+  - a03_code
+  - a04_coordination
+  - a05_hyperparameters
+  - a06_benchmarking
+  - a07_experiment

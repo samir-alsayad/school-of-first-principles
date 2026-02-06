@@ -1,0 +1,6 @@
+id: computing.software_engineering.capstone_v1
+title: "Capstone v1"
+description: "Capstone integration project."
+
+assignments:
+  - a01_bootstrap

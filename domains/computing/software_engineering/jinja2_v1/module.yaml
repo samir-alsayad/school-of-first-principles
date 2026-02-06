@@ -1,0 +1,6 @@
+id: computing.software_engineering.jinja2_v1
+title: "Jinja2 v1"
+description: "Template rendering with Jinja2."
+
+assignments:
+  - a01_jinja2

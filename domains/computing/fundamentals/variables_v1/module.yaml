@@ -1,0 +1,6 @@
+id: computing.fundamentals.variables_v1
+title: "Variables v1"
+description: "Variable binding, scope, and mutation patterns."
+
+assignments:
+  - a01_variables

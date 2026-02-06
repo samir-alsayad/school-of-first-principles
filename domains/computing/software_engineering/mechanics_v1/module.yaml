@@ -1,0 +1,7 @@
+id: computing.software_engineering.mechanics_v1
+title: "Mechanics v1"
+description: "Software mechanics: state machines and decisive action patterns."
+
+assignments:
+  - a01_state_machine
+  - a02_decisive_action

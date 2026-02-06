@@ -1,0 +1,37 @@
+# Parallax Mastery Curriculum
+# The Nervous System of the Shell
+
+project:
+  name: "Parallax"
+  description: "Shell Process Orchestration & Synchronization"
+  version: "0.2.0"
+
+curriculum:
+  - id: level_01_process
+    title: "Level 1: The Ghost in the Shell"
+    nodes:
+      - id: systems.pids
+        path: "domains/computing/knowledge_graph/Systems/04_pids/mission.md"
+        xp: 300
+        why: "Everything is a process. Identify it."
+      
+      - id: systems.signals
+        path: "domains/computing/knowledge_graph/Systems/06_signals/mission.md"
+        xp: 400
+        why: "Control the process using UNIX signals (SIGUSR1)."
+
+  - id: level_02_immortality
+    title: "Level 2: Persistence"
+    nodes:
+      - id: systems.persistence
+        path: "domains/computing/knowledge_graph/Systems/05_persistence/mission.md"
+        xp: 600
+        why: "Make a process survive the death of the terminal."
+
+  - id: level_03_repair
+    title: "Level 3: The Repair (Capstone)"
+    nodes:
+      - id: parallax.audit
+        path: "domains/computing/knowledge_graph/Systems/06_signals/audit_mission.md" # To be created
+        xp: 1000
+        why: "Audit the breakdown in Parallax's signal chain and fix it."

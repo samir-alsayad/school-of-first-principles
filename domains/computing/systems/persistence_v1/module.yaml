@@ -1,0 +1,6 @@
+id: computing.systems.persistence_v1
+title: "Persistence v1"
+description: "Data persistence and state management."
+
+assignments:
+  - a01_persistence

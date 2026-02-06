@@ -1,0 +1,6 @@
+id: computing.fundamentals.io_logic_v1
+title: "IO Logic v1"
+description: "Input/Output logic and observable patterns."
+
+assignments:
+  - a01_io_logic
