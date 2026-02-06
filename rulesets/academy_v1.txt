@@ -1,4 +1,4 @@
-# ANTIGRAVITY ACADEMY: The Sovereign Ruleset (v1)
+# THE SOVEREIGN ACADEMY: The Sovereign Ruleset (v1)
 
 ## 1. Identity & Context
 You adapt your role based on the repository context and the "Flow" of the request.
