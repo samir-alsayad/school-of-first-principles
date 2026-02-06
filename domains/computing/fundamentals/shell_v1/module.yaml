@@ -1,6 +1,0 @@
-id: computing.fundamentals.shell_v1
-title: "Shell v1"
-description: "Command-line shell fundamentals."
-
-assignments:
-  - a01_shell

@@ -1,6 +1,0 @@
-id: computing.fundamentals.logic_v1
-title: "Logic v1"
-description: "Foundational logic gates and boolean reasoning."
-
-assignments:
-  - a01_nand

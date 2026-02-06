@@ -1,6 +1,0 @@
-id: understanding_computers.01_digital_logic
-title: "Digital Logic"
-description: "From NAND gates to bits and bytes. The physics of information."
-
-assignments:
-  - computing.fundamentals.logic_v1.a01_nand

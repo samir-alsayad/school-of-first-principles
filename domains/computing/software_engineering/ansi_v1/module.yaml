@@ -1,6 +1,0 @@
-id: computing.software_engineering.ansi_v1
-title: "ANSI v1"
-description: "ANSI escape codes and terminal rendering."
-
-assignments:
-  - a01_ansi

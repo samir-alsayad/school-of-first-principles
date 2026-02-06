@@ -1,6 +1,0 @@
-id: computing.systems.signals_v1
-title: "Signals v1"
-description: "Unix signals and inter-process communication primitives."
-
-assignments:
-  - a01_signals

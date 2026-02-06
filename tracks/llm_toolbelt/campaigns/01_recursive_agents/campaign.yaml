@@ -1,6 +1,0 @@
-id: llm_toolbelt.01_recursive_agents
-title: "Recursive Agents"
-description: "Agents that can debug and improve themselves."
-
-assignments:
-  - computing.ai.recursion_v1.a01_recursion

@@ -1,7 +1,0 @@
-id: computing.fundamentals.environments_v1
-title: "Environments v1"
-description: "Python environment management, dependency migration, virtual environments."
-
-assignments:
-  - a01_mastery
-  - a02_migration

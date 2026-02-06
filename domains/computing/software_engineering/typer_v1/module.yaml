@@ -1,6 +1,0 @@
-id: computing.software_engineering.typer_v1
-title: "Typer v1"
-description: "CLI development with Typer framework."
-
-assignments:
-  - a01_typer

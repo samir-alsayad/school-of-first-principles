@@ -1,6 +1,0 @@
-id: computing.systems.repl_v1
-title: "REPL v1"
-description: "Read-Eval-Print Loop fundamentals and interactive computing."
-
-assignments:
-  - a01_repl

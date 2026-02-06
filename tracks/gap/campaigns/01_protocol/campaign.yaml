@@ -1,8 +1,0 @@
-id: gap.01_protocol
-title: "Protocol Design"
-description: "Alignment, Security, and Ledger integrity."
-
-assignments:
-  - computing.software_engineering.alignment_v1.a01_persona
-  - computing.software_engineering.security_v1.a01_form_tool
-  - computing.systems.memory_v1.a01_memory
