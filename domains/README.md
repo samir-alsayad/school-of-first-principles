@@ -1,30 +1,26 @@
-# The School of First Principles
-**Current Status**: Active
-**Structure**: Domain-Driven Design
+# The Sovereign Domain Map
 
-## 📂 The Domain Map
+The `domains/` directory is the core Knowledge Graph of the School. Each directory within represents a discipline containing modular assignments designed for first-principles internalization.
 
-### [1. Computing (The Technocrat)](domains/computing/)
-*Decoupling / Tools / Infrastructure*
+## 📂 Active Domains
+
+### 💻 [Computing](domains/computing/)
+*Infrastructure / Systems / Intelligence*
 - **[ROADMAP](domains/computing/ROADMAP.md)** (The Plan)
 - **[LEDGER](domains/computing/LEDGER.md)** (The History)
-- **Active Campaigns**: `Sovereign User`, `Foundation`.
 
-### [2. Intelligence (The Mind)](domains/intelligence/)
-*Agents / LLMs / Reasoning*
-- **Active Campaigns**: `Intelligence` (Agent Frameworks).
+### 🎓 [Academia](domains/academia/)
+*University / Research / First Principles*
+- Current Focus: `university/core_v1` (Institutional Challenge Solving).
 
-### [3. Life (The Manager)](domains/life/)
-*Health / Finance / Operations*
-- **Active Campaigns**: `Personal Sovereignty`.
+### 🧬 [Life](domains/life/)
+*Operations / Sovereignty / Health*
+- Current Focus: `personal/health_v1`.
 
-### [4. Creation (The Artist)](domains/creation/)
-*Music / Visuals / Narrative*
-- **Status**: Future.
+### 🎨 [Artistic](domains/artistic/)
+*Future Domain: Music, Visuals, and Narrative.*
 
-### [5. Academia (The Scholar)](domains/academia/)
-*University / Research*
-- **Active Campaigns**: `University Projects`.
+---
 
-### [Legacy Archive](domains/legacy/)
-*The Old World (v1)*
+## Canonical Taxonomy
+All content follows the strict **domain/discipline/module_v1** folder structure to ensure structural invariants are preserved across the academy.
