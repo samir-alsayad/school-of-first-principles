@@ -9,7 +9,7 @@ To transition from "Learning" to "Sovereignty". The end state is a self-sufficie
 *   **Goal**: VSCode Parity.
 *   **Requirement**: Modular, configurable layouts (JSON-driven).
 *   **Requirement**: "School Mode" — A specialized layout that puts the Curriculum (GAP Tutor) side-by-side with the Editor.
-*   **Requirement**: Local Model Integration (Antigravity/LLM access within the shell).
+*   **Requirement**: Local Model Integration (AI/LLM access within the shell).
 
 ### 2. Parallax (The Engine)
 *   **Goal**: Indestructible Persistence.

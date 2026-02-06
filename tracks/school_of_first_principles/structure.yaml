@@ -24,7 +24,7 @@ campaigns:
     description: "Defining the AI personas."
     modules:
       - id: meta.prompts.academy
-        path: "projects/school-of-first-principles/02_faculty/antigravity_academy.txt" # Linking to the source
+        path: "rulesets/academy_v1.txt" # Linking to the source
         status: verified
 
   - id: campaign_03_scholar_cli
