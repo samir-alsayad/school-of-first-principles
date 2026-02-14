@@ -1,0 +1,6 @@
+id: letta_learning
+title: "LETTA Learning"
+description: "Generated assignment stream for LETTA-backed School workflows."
+
+campaigns:
+  - 01_core

@@ -1,0 +1,8 @@
+id: computing.ai.letta_v1
+title: "Letta Mastery: Stateful Intelligence"
+description: "Mastering persistent memory architectures using the Letta framework."
+
+assignments:
+  - a01_persistent_agents
+  - a02_archival_memory
+  - a03_state_sync

@@ -1,0 +1,13 @@
+id: parallax_sockets_v1
+name: "Parallax Sockets: Persistent IPC"
+description: "Transitioning from stateless signals to persistent Unix sockets for terminal control."
+version: 1.0.0
+objectives:
+  - id: obj_persistence
+    text: "Understand the difference between stateless interrupts (signals) and persistent streams (sockets)."
+  - id: obj_serialization
+    text: "Implement a JSON-based command protocol for inter-process coordination."
+assignments:
+  - id: a01_the_pulse
+    name: "The Pulse: Replacing the Doorbell"
+    xp: 500

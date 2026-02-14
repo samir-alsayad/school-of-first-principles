@@ -1,0 +1,3 @@
+ok so anytime I reexplain something to you and its 100% correct, add it to the relevant section in reflection.md without changing anything about my response. If it isnt, tell me what is incorrect and ask me to reexplain.
+
+If I need to work on a file from a project, copy that file to the workbench, so that I can later replace the old file myself.

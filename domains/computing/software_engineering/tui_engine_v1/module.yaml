@@ -1,0 +1,11 @@
+id: computing.software_engineering.tui_engine_v1
+title: "TUI Engine: The Sovereign Interface"
+description: "Building a modular, offline-first documentation engine using School-CLI and Nexus-Shell."
+
+assignments:
+  - a01_data_first_cli
+  - a02_nexus_module_setup
+  - a03_mission_navigator
+  - a04_render_bridge
+  - a05_parallax_nerves
+  - a06_academy_layout
