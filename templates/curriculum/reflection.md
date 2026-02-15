@@ -1,23 +1,36 @@
-# Reflection: [Mission Name]
-**Status**: [Unverified/Verified]
+# Reflection: {{ Title }}
 
-## The Mirror
-[The Professor/Teacher provides specific Socratic questions here for the Student to answer.]
+## 1. Comprehension Check
 
-1. [Question 1]
-> [Student Answer]
+<!-- CONSTRAINT: Only three question types allowed.
+     Reconstruction = "Rebuild/explain without looking"
+     Perturbation   = "What breaks if X changes?"
+     Transfer       = "Apply this to a different system"
+     DISALLOWED: "Why is this important?", "How did you feel?", "Summarize..." -->
 
-2. [Question 2]
-> [Student Answer]
+> {{ Question_1 (Reconstruction) }}
+```
+<!-- Learner fills this in -->
+```
 
-## My Notes
-[Student's summary of what they built and how they implemented it.]
+> {{ Question_2 (Perturbation) }}
+```
+<!-- Learner fills this in -->
+```
 
-## The Discovery
-[The specific technical "aha!" moment or nuance identified (e.g. os.getpid vs os.getpid()).]
+> {{ Question_3 (Transfer) }}
+```
+<!-- Learner fills this in -->
+```
 
-## The Gap
-[The remaining question or curiosity: What is the next thing we need to solve?]
+## 2. Notes
+```
+<!-- Learner fills this in -->
+```
 
-## Evidence
-[Link or reference to the verified output/archive.]
+## 3. Proof of Work
+> Copy the output of your verification command here.
+
+```bash
+(Paste output)
+```
